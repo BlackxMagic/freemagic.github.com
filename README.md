@@ -1,0 +1,4 @@
+freemagic.github.com
+====================
+
+blog
